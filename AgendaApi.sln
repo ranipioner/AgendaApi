@@ -5,9 +5,7 @@ VisualStudioVersion = 17.11.35208.52
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgendaApi", "AgendaApi\AgendaApi.csproj", "{F330C390-4D53-45EA-B90F-E2F12F18F6B5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WeatherApi", "WeatherApi\WeatherApi.csproj", "{5DBAB8E5-FE52-42F0-B31D-833C5F46529A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio1", "Desafio1\Desafio1.csproj", "{378325EF-1B9A-4F8E-BF4A-E6BE148ECC17}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio2", "Desafio1\Desafio2.csproj", "{378325EF-1B9A-4F8E-BF4A-E6BE148ECC17}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +17,6 @@ Global
 		{F330C390-4D53-45EA-B90F-E2F12F18F6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F330C390-4D53-45EA-B90F-E2F12F18F6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F330C390-4D53-45EA-B90F-E2F12F18F6B5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5DBAB8E5-FE52-42F0-B31D-833C5F46529A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5DBAB8E5-FE52-42F0-B31D-833C5F46529A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5DBAB8E5-FE52-42F0-B31D-833C5F46529A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5DBAB8E5-FE52-42F0-B31D-833C5F46529A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{378325EF-1B9A-4F8E-BF4A-E6BE148ECC17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{378325EF-1B9A-4F8E-BF4A-E6BE148ECC17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{378325EF-1B9A-4F8E-BF4A-E6BE148ECC17}.Release|Any CPU.ActiveCfg = Release|Any CPU
